@@ -29,7 +29,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateuszoleksy&layout=compact&theme=radical)
 
 ## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://linkedin.com/in/mateuszoleksy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)]([https://linkedin.com/in/mateuszoleksy](https://www.linkedin.com/in/mateusz-oleksy-8b1156249/))
 [![Portfolio](https://img.shields.io/badge/Portfolio-website-green?logo=githubpages&style=flat)](https://mateuszoleksy.github.io/)
 
 ---
