@@ -16,10 +16,10 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 ## 📦 Featured Projects
+- [Object programming](https://github.com/mateuszoleksy/object_programming) – Movie Rental Software
 - [Eye Tracker](https://github.com/mateuszoleksy/eye_tracker) – Embedded vision for eye movement analysis
 - [Chess Clock](https://github.com/mateuszoleksy/chess_clock) – Smart chess clock on microcontroller
 - [Calculator for ARM](https://github.com/mateuszoleksy/Calculator-for-ARM) – Calculator app for ARM-based hardware
-- [onlineIDE](https://github.com/mateuszoleksy/onlineIDE) – Web-based integrated development environment
 - [Portfolio Website](https://github.com/mateuszoleksy/mateuszoleksy.github.io) – My personal site with projects and blog
 
 ## 📈 GitHub Stats
