@@ -26,7 +26,7 @@
 ![mateuszoleksy's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateuszoleksy&show_icons=true&theme=radical)
 
 ## 🗂️ Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateuszoleksy&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateuszoleksy&layout=compact&theme=radical&cache_seconds=1800)
 
 ## 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)]([https://linkedin.com/in/mateuszoleksy](https://www.linkedin.com/in/mateusz-oleksy-8b1156249/))
