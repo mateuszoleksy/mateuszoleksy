@@ -32,6 +32,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)]([https://linkedin.com/in/mateuszoleksy](https://www.linkedin.com/in/mateusz-oleksy-8b1156249/))
 [![Portfolio](https://img.shields.io/badge/Portfolio-website-green?logo=githubpages&style=flat)](https://mateuszoleksy.github.io/)
 
----
+--- 
 
 *Curious about tech, passionate about making things work, and always learning. Let’s build something awesome together!*
