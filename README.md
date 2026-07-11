@@ -1,4 +1,4 @@
-# Cześć, tu Mateusz! 👋
+# Hello, call me Mateusz! 👋
 
 Electronics & Telecommunications Engineer and DevOps / Full-Stack Intern. Exploring network infrastructure, low-level programming, and cloud-native systems.
 
