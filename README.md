@@ -1,6 +1,6 @@
 # Hello, call me Mateusz! 👋
 
-Electronics & Telecommunications Engineer and DevOps / Full-Stack Intern. Exploring network infrastructure, low-level programming, and cloud-native systems.
+Electronics & Telecommunications Engineer and DevOps / Full-Stack at IBM. Exploring network infrastructure, low-level programming, and cloud-native systems.
 
 ---
 
