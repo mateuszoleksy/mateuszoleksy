@@ -11,7 +11,7 @@ Electronics & Telecommunications Engineer and DevOps / Full-Stack Intern. Explor
                   .*%%%%%%%@%%%%%#%@@@@%%%#*+++**##*++++++=-                 [DevOps & Cloud]     - Kubernetes, Docker, AWS, CI/CD, Linux
                .=+*%%%%%%%%@@%#####%%%%%#**####%%%##*+=+++*++-               [Low-Level/Embedded] - C, C++, AVR, ARM ISA, Assembly
               -*##%%%%%%%@@@%%###%%%%@@%%####%@@%%%##*+++*%##**=             [Backend/Scripting]  - Python, Go (learning), SQL, MATLAB
-             .*##%%%%%%%%%%%%%####%%%@@@%%###%%%###****+++*%***++=-:         [Web Development]    - HTML5, CSS3, JavaScript, Bootstrap
+             .*##%%%%%%%%%%%%%####%%%@@@%%###%%%###****+++*%***++=-:         [Web Development]    - HTML5, CSS3, JavaScript, Bootstrap, React, NextJS
             =##%@@%%@@%%%%%%#%%%%%%%%%%@%%%%%%%%#*****#%#*=+##**#**++=.      
            =#%%%%%%#%%%%%%%%###%%%%%%##%%%%%#%%%%#*****%@@%####***##*+-.     ===================================================
          .*##%%%@%%%###%%%##%**#%%%%##*#%@%###%%%%%#*+**%@@%%%###**#**+:     📂 FEATURED REPOSITORIES
