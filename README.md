@@ -1,4 +1,4 @@
-# Hello, call me Mateusz! 👋
+# Hello, I am Mateusz! 👋
 
 Electronics & Telecommunications Engineer and DevOps / Full-Stack at IBM. Exploring network infrastructure, low-level programming, and cloud-native systems.
 
