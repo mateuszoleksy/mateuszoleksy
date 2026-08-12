@@ -2,6 +2,8 @@
 
 Electronics & Telecommunications Engineer | DevOps & Full-Stack at IBM
 
+For my B.Sc. thesis, I engineered a distributed WebRTC SaaS platform enabling real-time web calling with integrated IDE functionality.
+
 Currently pursuing an M.Sc. in ICT at AGH University of Krakow, focusing on cutting-edge network control and performance. My Master’s thesis explores Intent-Based Networking (IBN) powered by LLMs, high-throughput protocols (QUIC / TLS 1.3), and kernel-level packet processing with eBPF & XDP.
 
 Passions: 5G, OpenRAN, Software-Defined Networking (SDN), Terrestrial Networks, Cloud-Native Systems, and low-level engineering (plus the occasional 3D printing project).
