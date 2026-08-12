@@ -1,6 +1,10 @@
-# Hello, I am Mateusz! 👋
+# Hello, I am Matt!
 
-Electronics & Telecommunications Engineer and DevOps / Full-Stack at IBM. Exploring network infrastructure, low-level programming, and cloud-native systems.
+Electronics & Telecommunications Engineer | DevOps & Full-Stack at IBM
+
+Currently pursuing an M.Sc. in ICT at AGH University of Krakow, focusing on cutting-edge network control and performance. My Master’s thesis explores Intent-Based Networking (IBN) powered by LLMs, high-throughput protocols (QUIC / TLS 1.3), and kernel-level packet processing with eBPF & XDP.
+
+Passions: 5G, OpenRAN, Software-Defined Networking (SDN), Cloud-Native Systems, and low-level engineering (plus the occasional 3D printing project).
 
 ---
 
@@ -8,17 +12,17 @@ Electronics & Telecommunications Engineer and DevOps / Full-Stack at IBM. Explor
                                -+**=:  .:==:...-=-=:                           ===================================================
                             +*##%%####*********#####*=.                        CORE STACK & TECHNOLOGIES
                     .++: .=#%####%@@%@@@%%%#********+++--:                     ===================================================
-                  .*%%%%%%%@%%%%%#%@@@@%%%#*+++**##*++++++=-                   [DevOps & Cloud]     - Kubernetes, Docker, AWS, CI/CD, Linux
-               .=+*%%%%%%%%@@%#####%%%%%#**####%%%##*+=+++*++-                 [Low-Level/Embedded] - C, C++, AVR, ARM ISA, Assembly
+                  .*%%%%%%%@%%%%%#%@@@@%%%#*+++**##*++++++=-                   [DevOps & Cloud]     - Kubernetes, Docker, CI/CD, UNIX, AWS
+               .=+*%%%%%%%%@@%#####%%%%%#**####%%%##*+=+++*++-                 [Low-Level/Embedded] - C, C++, Assembly
               -*##%%%%%%%@@@%%###%%%%@@%%####%@@%%%##*+++*%##**=               [Backend/Scripting]  - Python, Go (learning), SQL, MATLAB
-             .*##%%%%%%%%%%%%%####%%%@@@%%###%%%###****+++*%***++=-:           [Web Development]    - HTML5, CSS3, JavaScript, Bootstrap, React, NextJS
+             .*##%%%%%%%%%%%%%####%%%@@@%%###%%%###****+++*%***++=-:           [Web Development]    - JavaScript, Bootstrap, React, NextJS
             =##%@@%%@@%%%%%%#%%%%%%%%%%@%%%%%%%%#*****#%#*=+##**#**++=.      
            =#%%%%%%#%%%%%%%%###%%%%%%##%%%%%#%%%%#*****%@@%####***##*+-.       ===================================================
          .*##%%%@%%%###%%%##%**#%%%%##*#%@%###%%%%%#*+**%@@%%%###**#**+:       FEATURED REPOSITORIES
         =##%%%%%%@@%%###%##*#***#%%##%####*++*******+=+=*###%%#*#**#*+=-.      ===================================================
-       -#%#%####%%@@@###%%*+=*##%%%##%%%#**+=++*+--+=-=-+**##*++##**#*=:==.    [chess-clock-avr]    - AVR-based chess clock project (C)
-       =#%#####*##%@@%%%%@%+-*###%##**###*+*+=**+--+++=***++==+**++***++*+=:   [Calculator-ARM]     - Simple calculator in ARM ISA (ASM)
-       +#%%######*##%@@%%@@%++#%%%####*#%#+##++**++*#####****+=====+******+-   [ProjectNET]         - File server handling SCTP & TCP (C)
+       -#%#%####%%@@@###%%*+=*##%%%##%%%#**+=++*+--+=-=-+**##*++##**#*=:==.    [ProjectNET]         - File server handling SCTP & TCP (C)
+       =#%#####*##%@@%%%%@%+-*###%##**###*+*+=**+--+++=***++==+**++***++*+=:   
+       +#%%######*##%@@%%@@%++#%%%####*#%#+##++**++*#####****+=====+******+-   
        #%%%%%%####*##%%%%%@%%###%%%#*++*###%%#*##***###*#**#*+=:::-=+**#**+= 
       :%%%%%%%%##****##%%%%%%##**####*+===+**####**++++++++*=-:   ..:+*###*-   ===================================================
       -@@@%%%%%%##**+++++**####****+++----==+++++====---:...         :=*##*.   WORKSPACE & HARDWARE
