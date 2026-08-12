@@ -14,7 +14,7 @@ Passions: 5G, OpenRAN, Software-Defined Networking (SDN), Terrestrial Networks, 
                     .++: .=#%####%@@%@@@%%%#********+++--:                     ===================================================
                   .*%%%%%%%@%%%%%#%@@@@%%%#*+++**##*++++++=-                   [DevOps & Cloud]     - Kubernetes, Docker, CI/CD, UNIX, AWS
                .=+*%%%%%%%%@@%#####%%%%%#**####%%%##*+=+++*++-                 [Low-Level/Embedded] - C, C++, Assembly
-              -*##%%%%%%%@@@%%###%%%%@@%%####%@@%%%##*+++*%##**=               [Backend/Scripting]  - Python, Go (learning), SQL, MATLAB
+              -*##%%%%%%%@@@%%###%%%%@@%%####%@@%%%##*+++*%##**=               [Backend/Scripting]  - Python, Go (learning), SQL
              .*##%%%%%%%%%%%%%####%%%@@@%%###%%%###****+++*%***++=-:           [Web Development]    - JavaScript, Bootstrap, React, NextJS
             =##%@@%%@@%%%%%%#%%%%%%%%%%@%%%%%%%%#*****#%#*=+##**#**++=.      
            =#%%%%%%#%%%%%%%%###%%%%%%##%%%%%#%%%%#*****%@@%####***##*+-.       ===================================================
