@@ -12,7 +12,7 @@ Passions: 5G, OpenRAN, Software-Defined Networking (SDN), Terrestrial Networks, 
                                -+**=:  .:==:...-=-=:                           ===================================================
                             +*##%%####*********#####*=.                        CORE STACK & TECHNOLOGIES
                     .++: .=#%####%@@%@@@%%%#********+++--:                     ===================================================
-                  .*%%%%%%%@%%%%%#%@@@@%%%#*+++**##*++++++=-                   [DevOps & Cloud]     - Kubernetes, Docker, CI/CD, UNIX, AWS
+                  .*%%%%%%%@%%%%%#%@@@@%%%#*+++**##*++++++=-                   [DevOps & Cloud]     - Kubernetes, Docker, CI/CD, UNIX, AWS, REDHAT
                .=+*%%%%%%%%@@%#####%%%%%#**####%%%##*+=+++*++-                 [Low-Level/Embedded] - C, C++, Assembly
               -*##%%%%%%%@@@%%###%%%%@@%%####%@@%%%##*+++*%##**=               [Backend/Scripting]  - Python, Go (learning), SQL
              .*##%%%%%%%%%%%%%####%%%@@@%%###%%%###****+++*%***++=-:           [Web Development]    - JavaScript, Bootstrap, React, NextJS
