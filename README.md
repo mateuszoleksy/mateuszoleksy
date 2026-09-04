@@ -1,8 +1,8 @@
 # Hello, I am Mateusz!
 
-Electronics & Telecom Engineer | DevOps & Full-Stack @ IBM
+##Electronics & Telecom Engineer | DevOps & Full-Stack @ IBM
 
-M.Sc. ICT student at AGH Krakow researching LLM-driven Intent-Based Networking (IBN), QUIC/TLS 1.3, and eBPF/XDP. Built a distributed WebRTC real-time IDE SaaS for my B.Sc.
+###M.Sc. ICT student at AGH Krakow researching LLM-driven Intent-Based Networking (IBN), QUIC/TLS 1.3, and eBPF/XDP. Built a distributed WebRTC real-time IDE SaaS for my B.Sc.
 ---
 Tech focus: 5G/OpenRAN, SDN, Cloud-Native, & Low-Level Systems.
 
