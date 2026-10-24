@@ -1,6 +1,8 @@
 # Hello, I am Mateusz!
 ### Electronics & Telecom Engineer | DevOps & Full-Stack @ IBM <br> M.Sc. ICT student at AGH Krakow
 
+Currently learning: AWS, Golang, Rust
+
 ```text
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   ===================================================
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   CORE STACK
